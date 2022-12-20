@@ -47,13 +47,13 @@ CGO,Congo,CAF,https://countryflagsapi.com/png/congo
 COD,Congo DR,CAF,https://countryflagsapi.com/png/congo%20dr
 COK,Cook Islands,OFC,https://countryflagsapi.com/png/cook%20islands
 CRC,Costa Rica,CONCACF,https://countryflagsapi.com/png/costa%20rica
-CIV,Côte d'Ivoire,CAF,https://countryflagsapi.com/png/côte%20d'ivoire
+CIV,Ivory Coast,CAF,https://countryflagsapi.com/png/côte%20d'ivoire
 CRO,Croatia,UEFA,https://countryflagsapi.com/png/croatia
 CUB,Cuba,CONMEBOL,https://countryflagsapi.com/png/cuba
 CUW,Curacao,CONCACAF,https://countryflagsapi.com/png/curacao
 CYP,Cyprus,UEFA,https://countryflagsapi.com/png/cyprus
 CZE,Czech Republic,UEFA,https://countryflagsapi.com/png/czech%20republic
-PRK,Democratic People’s Republic of Korea,AFC,https://countryflagsapi.com/png/democratic%20people’s%20republic%20of%20korea
+PRK,North Korea,AFC,https://countryflagsapi.com/png/democratic%20people’s%20republic%20of%20korea
 DEN,Denmark,UEFA,https://countryflagsapi.com/png/denmark
 DJI,Djibouti,CAF,https://countryflagsapi.com/png/djibouti
 DMA,Dominica,CONCACF,https://countryflagsapi.com/png/dominica
@@ -91,8 +91,8 @@ ISL,Iceland,UEFA,https://countryflagsapi.com/png/iceland
 IND,India,AFC,https://countryflagsapi.com/png/india
 INA,Indonesia,AFC,https://countryflagsapi.com/png/indonesia
 IRQ,Iraq,AFC,https://countryflagsapi.com/png/iraq
-IRL,Ireland,UEFA,https://countryflagsapi.com/png/ireland
-IRI,Islamic Republic of Iran,AFC,https://countryflagsapi.com/png/islamic%20republic%20of%20iran
+IRL,Republic of Ireland,UEFA,https://countryflagsapi.com/png/ireland
+IRI,Iran,AFC,https://countryflagsapi.com/png/islamic%20republic%20of%20iran
 ISR,Israel,UEFA,https://countryflagsapi.com/png/israel
 ITA,Italy,UEFA,https://countryflagsapi.com/png/italy
 JAM,Jamaica,CONCACF,https://countryflagsapi.com/png/jamaica
@@ -100,7 +100,7 @@ JPN,Japan,AFC,https://countryflagsapi.com/png/japan
 JOR,Jordan,AFC,https://countryflagsapi.com/png/jordan
 KAZ,Kazakhstan,UEFA,https://countryflagsapi.com/png/kazakhstan
 KEN,Kenya,CAF,https://countryflagsapi.com/png/kenya
-KOR,Korea,AFC,https://countryflagsapi.com/png/korea
+KOR,South Korea,AFC,https://countryflagsapi.com/png/korea
 KOS,Kosovo,UEFA,https://countryflagsapi.com/png/kosovo
 KUW,Kuwait,AFC,https://countryflagsapi.com/png/kuwait
 KGZ,Kyrgyzstan,AFC,https://countryflagsapi.com/png/kyrgyzstan
@@ -154,7 +154,7 @@ PUR,Puerto Rico,CONCACF,https://countryflagsapi.com/png/puerto%20rico
 QAT,Qatar,AFC,https://countryflagsapi.com/png/qatar
 MDA,Republic of Moldova,UEFA,https://countryflagsapi.com/png/republic%20of%20moldova
 ROM,Romania,UEFA,https://countryflagsapi.com/png/romania
-RUS,Russian Federation,UEFA,https://countryflagsapi.com/png/russian%20federation
+RUS,Russia,UEFA,https://countryflagsapi.com/png/russian%20federation
 RWA,Rwanda,CAF,https://countryflagsapi.com/png/rwanda
 SKN,Saint Kitts and Nevis,CONCACF,https://countryflagsapi.com/png/saint%20kitts%20and%20nevis
 LCA,Saint Lucia,CONCACF,https://countryflagsapi.com/png/saint%20lucia
@@ -199,7 +199,7 @@ UGA,Uganda,CAF,https://countryflagsapi.com/png/uganda
 UKR,Ukraine,UEFA,https://countryflagsapi.com/png/ukraine
 UAE,United Arab Emirates,AFC,https://countryflagsapi.com/png/united%20arab%20emirates
 TAN,United Republic of Tanzania,CAF,https://countryflagsapi.com/png/united%20republic%20of%20tanzania
-USA,United States of America,CONCACF,https://countryflagsapi.com/png/united%20states%20of%20america
+USA,United States,CONCACF,https://countryflagsapi.com/png/united%20states%20of%20america
 URU,Uruguay,CONMEBOL,https://countryflagsapi.com/png/uruguay
 UZB,Uzbekistan,AFC,https://countryflagsapi.com/png/uzbekistan
 VAN,Vanuatu,OFC,https://countryflagsapi.com/png/vanuatu
